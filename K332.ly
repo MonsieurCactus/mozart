@@ -15,7 +15,7 @@ upper = \relative c''{
 
   f,2-1 ( a4-3)
   c2-5 ( a4-1)
-  bes2 ( g'4)
+  bes2-2 ( g'4-5)
   f8 ( e ) e4 r
   f4( a, d)
   g,( c4. a8)
