@@ -13,4 +13,4 @@ there were only a few opportunities to do so (if ever).  Now there's thousands o
 *  Over time, it looks as if music has become more specialized (and therefore more advanced), so there's nothing to reflect regional influences and the signs of the times.  Therefore, the rules of music seem really dated, because in order to get those insights, we also have to accept their rhythm and melody choices as well.
 Well-Tempered Clavier was written between 1720 and 1750.  The way music got around was just completely different.
 
-I am not a musicologist and some of this is just my opinion.
+I am not a musicologist and some of this is just my opinion.  If the PDF's do not render properly you should try downloading them.  Something wrong with Github's rendering machine.
